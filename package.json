@@ -1,0 +1,14 @@
+{
+  "name": "sic",
+  "version": "1.0.0",
+  "description": "sky indonesia community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imsoondae_",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
